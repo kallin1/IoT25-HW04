@@ -3,7 +3,7 @@
 ## Board and Port Screenshot
 ![Screenshot](./IoT25-HW04.png)
 
-## Read Analog Values
+## Test Bluetooth Example
 [Video](https://youtube.com/shorts/_RazB6UPDU0)
 
 ## Explain & Active Learning
